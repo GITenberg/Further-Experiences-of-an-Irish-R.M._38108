@@ -1,0 +1,45 @@
+_repo: Further-Experiences-of-an-Irish-R.M._38108
+_version: 0.1.0
+alternative_title: Further Experiences of an Irish Resident Magistrate
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Somerville, E. Oe. (Edith Oenone)
+    aliases:
+    - Somerville, Edith Anna Oenone
+    - Herring, Geilles
+    birthdate: 1858
+    deathdate: 1949
+    gutenberg_agent_id: '5334'
+    url: http://www.gutenberg.org/2009/agents/5334
+    wikipedia: http://en.wikipedia.org/wiki/Edith_Anna_Somerville
+  - agent_name: Ross, Martin
+    alias: Martin, Violet Florence
+    birthdate: 1862
+    deathdate: 1915
+    gutenberg_agent_id: '5335'
+    url: http://www.gutenberg.org/2009/agents/5335
+    wikipedia: http://en.wikipedia.org/wiki/Violet_Florence_Martin
+description: ''
+gutenberg_issued: '2011-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38108'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories, English'
+- !lcsh 'Justices of the peace -- Fiction'
+- !lcc 'PR'
+- !lcsh 'British -- Ireland -- Fiction'
+- !lcsh 'Ireland -- Social life and customs -- Fiction'
+tableOfContents: The pug-nosed fox -- A royal command -- Poisson d'Avril -- "The man
+  that came to buy apples" -- A conspiracy of silence -- The boat's share -- The last
+  day of Shraft -- "A horse! A horse!" -- Sharper than a ferret's tooth -- Oweneen
+  the Sprat -- The Whiteboys.
+title: Further Experiences of an Irish R.M.
+url: http://www.gutenberg.org/ebooks/38108
