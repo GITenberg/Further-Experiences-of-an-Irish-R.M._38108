@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5335
     wikipedia: http://en.wikipedia.org/wiki/Violet_Florence_Martin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38108#Further-Experiences-of-an-Irish-R.M.
 gutenberg_issued: '2011-11-22'
 gutenberg_type: Text
 identifiers:
